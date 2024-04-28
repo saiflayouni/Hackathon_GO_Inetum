@@ -20,9 +20,16 @@ flutter pub get
 flutter run
 
 
+
+## Documents supplémentaires
+- [User Stories](https://docs.google.com/document/d/1tOnjWRkSfmIZ5tn2gkGxlDuzsWrinPDzekrNMxJFGdI/edit?usp=sharing): Ce document contient les user stories qui décrivent les fonctionnalités et les besoins des utilisateurs de l'application GO&GO Inetum.
+- [RSE (Responsabilité Sociétale des Entreprises)](https://docs.google.com/document/u/0/d/1TF8XnnAAeroCAwc58VRe6CFMsw0RaLB9vUCiXDdyhuY/mobilebasic?fbclid=IwZXh0bgNhZW0CMTAAAR1J4sZheYjJwFLASTE54u92heNWeTDJas8NrHOp-9ESCTMEBcU2nzVwDGc_aem_AZtfSUZ5XQ6RXh3GM2tXfgKiI87gQ8A7wi9k-QikO3wJe-fduOm9iziyLMBEuKR6akTGSRTowvD0k_FbJmqOxfsD): Ce document explique la politique de Responsabilité Sociétale des Entreprises adoptée par GO&GO Inetum.
+- [Maquette Figma](https://www.figma.com/file/5JyCqndkiy82xfTJt6epMC/GO%26-GO?type=design&node-id=0-1&mode=design&t=kH78HuLQdEEoGa5u-0): Consultez cette maquette sur Figma pour visualiser l'interface utilisateur de l'application GO&GO Inetum.
+
 ## Remarques
 Assurez-vous d'avoir configuré correctement votre environnement de développement Flutter avant d'exécuter l'application. Si vous rencontrez des problèmes lors de l'installation ou de l'exécution, référez-vous à la documentation officielle de Flutter ou consultez les problèmes connus dans ce dépôt.
 
 N'hésitez pas à contribuer en soumettant des pull requests ou en signalant des problèmes dans la section "Issues" du dépôt. Merci de votre intérêt pour notre projet GO&GO Inetum !
+
 
 
