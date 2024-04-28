@@ -1,16 +1,28 @@
-# gogo
+# Projet GO&GO Inetum
 
-A new Flutter project.
+## Description
+GO&GO Inetum est une application de covoiturage interne destinée aux collaborateurs d'une entreprise. Cette application permet aux employés de trouver des trajets partagés pour se rendre au travail, favorisant ainsi le covoiturage et réduisant l'empreinte carbone liée aux déplacements professionnels.
 
-## Getting Started
+## Comment télécharger le projet
+Pour télécharger et exécuter ce projet, suivez les étapes ci-dessous :
 
-This project is a starting point for a Flutter application.
+1. Assurez-vous d'avoir Flutter installé sur votre système. Si ce n'est pas le cas, suivez les instructions sur le site officiel de Flutter : [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+2. Clonez ce dépôt Git sur votre machine en utilisant la commande suivante dans votre terminal :
+git clone https://github.com/saiflayouni/projet_gogoinetum.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Accédez au répertoire du projet 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Exécutez Flutter pour obtenir les dépendances du projet :
+flutter pub get
+
+5. Vous êtes prêt à exécuter et tester l'application ! Utilisez la commande suivante pour lancer l'application sur un émulateur ou un appareil connecté :
+flutter run
+
+
+## Remarques
+Assurez-vous d'avoir configuré correctement votre environnement de développement Flutter avant d'exécuter l'application. Si vous rencontrez des problèmes lors de l'installation ou de l'exécution, référez-vous à la documentation officielle de Flutter ou consultez les problèmes connus dans ce dépôt.
+
+N'hésitez pas à contribuer en soumettant des pull requests ou en signalant des problèmes dans la section "Issues" du dépôt. Merci de votre intérêt pour notre projet GO&GO Inetum !
+
+
