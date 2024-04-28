@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759525932014",
+    "project_id": "gongo-74171",
+    "storage_bucket": "gongo-74171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759525932014:android:35deea959368854fe52cff",
+        "android_client_info": {
+          "package_name": "com.example.gogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlb8RYxIvMOdCAq-UOqII7dPpHlnLAFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
